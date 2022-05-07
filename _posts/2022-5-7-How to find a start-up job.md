@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to find a start-up job!
+title: How to find a start-up job
 ---
 
 Smart people join bad start-ups all the time. Competent people work for a stressed-out founder in a start-up without real growth for a few years. Eventually they get frustrated and leave, and often go on to have very successful careers in other companies. I have done this myself. How could competent people get it so wrong? It happens because many instincts we have about finding a job come from a world before start-ups. At best, these instincts do not apply to a start-up job search. At worst, they hinder it.
