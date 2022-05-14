@@ -6,7 +6,7 @@
 name: Johannes Jaeckle
 
 # Short bio or description (displayed in the header)
-description: Tinkerer
+description: Occasional contributor of code
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://pbs.twimg.com/profile_images/1202348408985575425/og-ZuK9E_400x400.jpg
@@ -27,7 +27,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: G-4QL0YLGJG9
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
