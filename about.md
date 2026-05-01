@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I live in London with my girlfriend, Evi, and our cat, Gus. I am originally from Muenster, Germany.
+I live in Brooklyn with my wife, Evi, our son, Wolfie, and our cat, Gus. I am originally from Muenster, Germany.
 
-I spend most of my time building [Heron Data](https://www.herondata.io/) with my friends and co-founders Dom and Jamie. We help lenders underwrite businesses, allowing them to take into account much more information about the business than previously possible. This makes it easier for the businesses to get credit.
+Any time I don't spend with my wife and kid I spend building [Heron](https://www.herondata.io/) with my friends and co-founders Dom and Jamie. We help lenders and insurers underwrite businesses by outsourcing work to an AI service. This ultimately makes it easier for businesses to get financial services.
 
-In my spare time, I play football, chess and work out. 
+Before this, I ran a remittance company called Taptap Send that has made it radically cheaper and faster for African immigrants to send money hime.
 
 ### Contact me
 
