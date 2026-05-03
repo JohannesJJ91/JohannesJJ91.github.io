@@ -8,7 +8,7 @@ I live in Brooklyn with my wife, Evi, our son, Wolfie, and our cat, Gus. I am or
 
 Any time I don't spend with my wife and kid I spend building [Heron](https://www.herondata.io/) with my friends and co-founders Dom and Jamie. We help lenders and insurers underwrite businesses by outsourcing work to an AI service. This ultimately makes it easier for businesses to get financial services.
 
-Before this, I ran a remittance company called Taptap Send that has made it radically cheaper and faster for African immigrants to send money hime.
+Before this, I ran a remittance company called Taptap Send that has made it radically cheaper and faster for African immigrants to send money home.
 
 ### Contact me
 
