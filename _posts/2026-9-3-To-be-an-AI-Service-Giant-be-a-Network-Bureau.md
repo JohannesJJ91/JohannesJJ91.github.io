@@ -19,7 +19,7 @@ Switching costs are similar. Automating a workflow that has direct financial imp
 
 ### ...or be too small...
 
-There are two powers that seem more durable and intuitive for an AI service: Scale economies and network effects. We have found they are both real, but one is too feeble and runs out too quickly to afford the market power for a truly huge company. It's scale economies.
+There are two powers that seem more durable and intuitive for an AI service: Scale economies and network effects. We have found they are both real, but scale economies are too feeble and run out too quickly to afford the market power for a truly huge company.
 
 Simply put, they exist where a company providing the same service at scale can do so more cheaply than one that does not. And this is indisputably true for many AI services: A firm seeing 10,000 units of work a day and receiving feedback on incorrect inference will have better evaluation sets, and hence inference, than a firm seeing 100 cases a day. Being better on first inference lowers human review costs and even increases product quality. There are also cost savings in buying inputs in bulk.
 
