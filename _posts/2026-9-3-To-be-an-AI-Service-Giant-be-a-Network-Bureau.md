@@ -17,7 +17,7 @@ Take counter-positioning. It sounds extremely favorable to an AI services compan
 
 Switching costs are similar. Automating a workflow that has direct financial implications (e.g. touching money movement) introduces some. But they are a friction, not a way of offering an entirely differentiated product. We know this because we win from incumbents deep in a sensitive decision flow all the time. The type of incumbents that would have likely cited this moat in their favor. Switching costs make these deals much harder to win, sure, but win them you will once your offering is significantly cheaper, better or faster. Switching costs can provide some medium term protection, but they are no long-term match to the overwhelming forces of technological change.
 
-### or be too small...
+### ...or be too small...
 
 There are two powers that seem more durable and intuitive for an AI service: Scale economies and network effects. We have found they are both real, but one is too feeble and runs out too quickly to afford the market power for a truly huge company. It's scale economies.
 
