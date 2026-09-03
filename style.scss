@@ -271,11 +271,12 @@ nav {
   }
 
   .entry a {
+    color: $linkBlue;
     text-decoration: underline;
     text-underline-offset: 2px;
 
     &:hover, &:active {
-      text-decoration-color: $gray;
+      color: $linkBlueVisited;
     }
   }
 }
