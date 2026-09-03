@@ -78,6 +78,11 @@ a {
   }
 }
 
+sup {
+  vertical-align: super;
+  font-size: 0.65em;
+}
+
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
@@ -262,6 +267,15 @@ nav {
 
     &:hover {
       color: $darkerGray;
+    }
+  }
+
+  .entry a {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+
+    &:hover, &:active {
+      text-decoration-color: $gray;
     }
   }
 }

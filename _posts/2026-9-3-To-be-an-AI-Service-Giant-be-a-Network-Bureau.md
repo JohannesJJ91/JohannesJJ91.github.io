@@ -7,21 +7,21 @@ Since writing software features has become close to free sometime in early 2026,
 
 While technology is changing rapidly, the free markets we operate in have not. So, many of the [original "7 powers"](https://www.nfx.com/post/seven-powers), which are really all ways to put a moat around the castle, still apply. The question is which are attainable for an AI service, and which are not.
 
-We have run Heron as an AI-native services firm for 3 years, and what we have learnt suggests that most of the moats will not survive long-term, except for one.
+We have run Heron as an AI-native services firm for 2.5 years, and what we have learnt suggests that most of the moats will not survive long-term, except for one.
 
 ### Most moats won't work…
 
-Two are close misses - sound right, but we can already see they won't hold up, and we've only done this for 2 years in earnest.
+Two are close misses - sound right, but we can already see they won't hold this early in the game.
 
 Take counter-positioning. It sounds extremely favorable to an AI services company. The start-up undercuts prices compared to incumbent firms using humans, and those firms often operate on a per-hour model, so *them* cutting *their* humans directly cuts their own revenue. While this is true, it has a fatal flaw: It only works against incumbents. The next AI services company will follow your positioning, has nothing to lose, and the moat is gone.
 
 Switching costs are similar. Automating a workflow that has direct financial implications (e.g. touching money movement) introduces some. But they are a friction, not a way of offering an entirely differentiated product. We know this because we win from incumbents deep in a sensitive decision flow all the time. The type of incumbents that would have likely cited this moat in their favor. Switching costs make these deals much harder to win, sure, but win them you will once your offering is significantly cheaper, better or faster. Switching costs can provide some medium term protection, but they are no long-term match to the overwhelming forces of technological change.
 
-### …or be too small
+### or be too small...
 
-There are two powers that seem more durable and intuitive for an AI service: Scale economies and network effects. We have found they are both real, but one is too feeble and runs out too quickly to afford the market power for a truly huge company.
+There are two powers that seem more durable and intuitive for an AI service: Scale economies and network effects. We have found they are both real, but one is too feeble and runs out too quickly to afford the market power for a truly huge company. It's scale economies.
 
-It's scale economies. Simply put, they exist where a company providing the same service at scale can do so more cheaply than one that does not. And this is indisputably true for many AI services: A firm seeing 10,000 units of work a day and receiving feedback on incorrect inference will have better evaluation sets, and hence inference, than a firm seeing 100 cases a day. Being better on first inference lowers human review costs and even increases product quality. There are probably also cost-savings in buying inputs in bulk.
+Simply put, they exist where a company providing the same service at scale can do so more cheaply than one that does not. And this is indisputably true for many AI services: A firm seeing 10,000 units of work a day and receiving feedback on incorrect inference will have better evaluation sets, and hence inference, than a firm seeing 100 cases a day. Being better on first inference lowers human review costs and even increases product quality. There are also cost savings in buying inputs in bulk.
 
 But, the [marginal value declines quickly](https://a16z.com/the-empty-promise-of-data-moats/): Intuitively, there are only so many cases before one has seen the vast majority[^1] of ones that matter. So, while it matters to get to *enough* scale, in practice many companies will get there, and it's unclear how much going from 10,000 to 100,000 cases really adds after that. Even worse, this scale effect is strongest on inference and inference gets better all the time, so the value of having more evals than your competitors will also structurally decline.
 
@@ -29,7 +29,7 @@ But, the [marginal value declines quickly](https://a16z.com/the-empty-promise-of
 
 So, the protection afforded by scale economies is too feeble, and stops compounding too quickly, to ensure a fast-growing AI service transforms into a giant company.
 
-### Most people underestimate network effects
+### ...but most people underestimate network effects
 
 Network effects are different. They exist when the value of a product increases with the number of users of that product because there is some direct interaction between them. Customer 1's data making customer 2's inference better is a broad scale effect, customer 1 and customer 2 interacting more directly is a network effect.
 
@@ -53,11 +53,11 @@ Network effects are the opposite. They do not exist until two customers send the
 
 The above begs a question: If it makes economic sense to share this data today and create some network signal, it would have made sense to share it 30 years ago. Why hasn't it happened?
 
-The answer is simple: The economic pressures for these organizations accumulating and sharing cross-customer signals (call them "**network bureaus**") has indeed existed in many sectors for a long time. But, network bureaus tend to be hard or impossible to set up if the underlying workflow is manual and has unstructured data, because the contribution to the network is very high friction. Take my example from above: Fraud signals need to be fresh, so a manual workflow for contribution would need to be a highly-staffed effort to share all cases in real-time, which would be prohibitively costly. A network bureau tracking the trajectory of a business over time would fall down because historical performance data on a business has always been unstructured: Bank statements, quickbooks exports, and whatever the business said on their application form. This is far too unstructured to share and compare easily.
+The answer is simple: The economic pressures for these organizations accumulating and sharing cross-customer signals (call them "**network bureaus**") have indeed existed in many sectors for a long time. But, network bureaus tend to be hard or impossible to set up if the underlying workflow is manual and has unstructured data, because the contribution to the network is very high friction. Take my example from above: Fraud signals need to be fresh, so a manual workflow for contribution would need to be a highly-staffed effort to share all cases in real-time, which would be prohibitively costly. A network bureau tracking the trajectory of a business over time would fall down because historical performance data on a business has always been unstructured: Bank statements, quickbooks exports, and whatever the business said on their application form. This is far too unstructured to share and compare easily.
 
 This reality has led to a lot of "thin" network bureaus that are below their potential: In business lending, very few lenders trust the existing business credit bureaus, in large parts because batch uploads of data from members are incomplete and very slow. In insurance claims, shared claim databases (e.g. Verisk) give a cross-customer view on a claimant, but because the adjuster's findings are in (unstructured) prose, they don't make it into the network bureau, which is much "thinner" than it could be.
 
-There's an interesting case where in some places, contribution is so high-friction that network bureaus that one could easily imagine making sense economically don't exist at all. One such place would be a deep understanding of a person's past work performance when hiring, but data on a person is so non-standard and hence subjective that, understandably, the legal hurdles to contributing to such a hypothetical network are prohibitive. Another is accounting. There's surely value for a restaurant in Cleveland to see if it's overpaying for HR software relative to all the others. This has not happened because bookkeeping is historically so manual and data so non-standard - every business has a custom ledger of accounting categories - that a network bureau pooling them all and making comparisons has not been practical. AI services likely will change that.
+There's an interesting case where in some places, contribution is so high-friction that network bureaus that one could easily imagine making sense economically don't exist at all. One such place would be a deep understanding of a person's past work performance when hiring, but data on a person is so non-standard and hence subjective that, understandably, the legal hurdles to contributing to such a hypothetical network are prohibitive. Another is accounting. There's surely value for a restaurant in Cleveland to see if it's overpaying for HR software relative to all the others. This has not happened because bookkeeping is historically so manual and data so non-standard - every business has a custom ledger of accounting categories - that a network bureau pooling them all and making comparisons has not been practical. AI services will change that.
 
 ### And network bureaus at full potential are *very* valuable
 
